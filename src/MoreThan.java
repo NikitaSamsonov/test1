@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MoreThan {
 
-    public static void value(int num_1, int num_2){
+    public static void value(int num_1, int num_2){//TODO все-таки лучше предусмотреть равенство чисел
         if (num_1 > num_2){
             System.out.print("Num1 bigger" );
         } else {

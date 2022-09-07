@@ -20,7 +20,9 @@ public class PrimitiveTypes {
         System.out.println(Double.MAX_VALUE);
         System.out.println(Double.MIN_VALUE);
 
+        //TODO добавь STRING и Array (можно в цикле)
 
+//TODO желательно не оставлять пустые строки
 
     }
 
@@ -28,5 +30,5 @@ public class PrimitiveTypes {
 
 
 
-
+//TODO желательно не оставлять пустые строки
 
